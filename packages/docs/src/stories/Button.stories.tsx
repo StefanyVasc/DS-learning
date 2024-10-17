@@ -6,7 +6,7 @@ import { Button, ButtonProps } from '@ignite-ui/react'
 // Meta is a type that is used to define the metadata of the story in Storybook.
 
 export default {
-  title: 'Button',
+  title: 'Form/Button',
   component: Button,
   args: {
     children: 'Enviar',
