@@ -15,4 +15,6 @@ export function TextInput({ prefix, ...props }: TextInputComponentProps) {
   )
 }
 
+TextInput.displayName = 'TextInput'
+
 export interface TextInputProps extends VariantProps<TextInputComponentProps> {}

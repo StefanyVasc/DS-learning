@@ -89,6 +89,8 @@ export const Button = styled('button', {
   },
 })
 
+Button.displayName = 'Button'
+
 interface ButtonComponentProps extends ComponentProps<typeof Button> {
   as?: ElementType
 }
