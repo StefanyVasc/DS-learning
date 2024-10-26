@@ -19,6 +19,7 @@
     "@ignite-ui/tokens": "*",
     "@ignite-ui/ts-config": "*",
     "@radix-ui/react-checkbox": "^1.1.2",
+    "@storybook/addon-a11y": "^8.3.6",
     "phosphor-react": "^1.4.1",
     "polished": "^4.3.1",
     "react": "^18.3.1",
